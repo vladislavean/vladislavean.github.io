@@ -1,0 +1,86 @@
+#div-name-photo {
+    font-size: 220%;
+    text-align: center;
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center
+}
+#my-name {
+    font-weight: 600;
+}
+#my-photo {
+    margin: auto;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    border-width: 4%;
+    border: solid;
+    border-color: #654cf9;
+}
+#container-info-name {
+    width: 1100px;
+    margin: auto;
+    display: flex;
+    font-family: sans-serif;
+    justify-content: center;
+}
+#content {
+    width: 1100px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+    
+}
+#content-about {
+    display: flex;
+    font-size: 190%;
+    font-weight: 500;
+}
+
+#content-about-contact-telegram{
+    display: flex;
+}
+#content-about-contact-telegram-icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+}
+#content-about-contact-email-icon {
+    width: 23px;
+    height: 23px;
+    margin-left: 2px;
+}
+#content-about-contact-github-icon {
+    width: 23px;
+    height: 23px;
+    margin-left: 2px;
+}
+
+#content-about-me {
+    margin-left: auto;
+    width: 40%;
+}
+#content-about-contact-phone-icon {
+    width: 23px;
+    height: 23px;
+    margin-left: 2px;
+}
+#content-stack {
+    margin-top: 5%;
+    font-size: 190%;
+}
+#content-stack-icon {
+    width: 23px;
+    height: 23px;
+    margin-left: 2px;
+}
+#content-soft {
+    margin-top: 5%;
+    font-size: 190%;
+}
+#content-soft-skill {
+    margin-bottom: 1%;
+}
