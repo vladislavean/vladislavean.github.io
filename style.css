@@ -87,7 +87,12 @@
 #a-tag {
     outline: none;
     text-decoration: none;
+    color:black;
   }
 #a-tag:hover {
-    background-color: #654cf9;
+    color: #654cf9;
   }
+
+#a-tag:active {
+    color: red;
+}
