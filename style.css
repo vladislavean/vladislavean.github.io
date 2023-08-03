@@ -84,3 +84,7 @@
 #content-soft-skill {
     margin-bottom: 1%;
 }
+
+a:hover {
+    background-color: #654cf9;
+  }
