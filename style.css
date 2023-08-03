@@ -84,10 +84,10 @@
 #content-soft-skill {
     margin-bottom: 1%;
 }
-a {
+#a-tag {
     outline: none;
     text-decoration: none;
   }
-a:hover {
+#a-tag:hover {
     background-color: #654cf9;
   }
